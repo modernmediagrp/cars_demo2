@@ -1,3 +1,4 @@
+require 'scraperwiki'
 # This scraper is to scrape all car information from craiglist.com
 # The information for each car includes:
 
